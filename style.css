@@ -39,12 +39,11 @@ h1 {
   outline: 0;
   background-color: #ebfffc;
   color: #555;
-  padding: 10px 25px;
+  padding: 1px 1px;
   height: 60px;
-  border-radius: 30px;
+  border-radius: 40px;
   flex: 1;
-  margin-right: 16px;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .search button {
@@ -52,7 +51,9 @@ h1 {
   outline: 0;
   background-color: #ebfffc;
   border-radius: 20px;
-  width: 60px;
+  padding: 2px 1px;
+  margin: 10px;
+  width: 120px;
   height: 60px;
   cursor: pointer;
 }
@@ -100,4 +101,5 @@ h1 {
 .wind {
   font-size: 20px;
   margin-top: -6px;
+  margin-right: 5px;
 }
